@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Štemplaj se</h1>
+    <h1>Dobrodošli</h1>
   </div>
 </template>
